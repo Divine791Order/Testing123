@@ -1,2 +1,2 @@
-This is my very first file on git hub ,
-This is bit easy and interesting wooooooooooow
+This is python project
+Buit on python selenium 
